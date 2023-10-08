@@ -1,0 +1,12 @@
+D:\pro\cursoBalta\clear\jwtStore.core\bin\Debug\net7.0\jwtStore.core.deps.json
+D:\pro\cursoBalta\clear\jwtStore.core\bin\Debug\net7.0\jwtStore.core.dll
+D:\pro\cursoBalta\clear\jwtStore.core\bin\Debug\net7.0\jwtStore.core.pdb
+D:\pro\cursoBalta\clear\jwtStore.core\obj\Debug\net7.0\jwtStore.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\cursoBalta\clear\jwtStore.core\obj\Debug\net7.0\jwtStore.core.AssemblyInfoInputs.cache
+D:\pro\cursoBalta\clear\jwtStore.core\obj\Debug\net7.0\jwtStore.core.AssemblyInfo.cs
+D:\pro\cursoBalta\clear\jwtStore.core\obj\Debug\net7.0\jwtStore.core.csproj.CoreCompileInputs.cache
+D:\pro\cursoBalta\clear\jwtStore.core\obj\Debug\net7.0\jwtStore.core.dll
+D:\pro\cursoBalta\clear\jwtStore.core\obj\Debug\net7.0\refint\jwtStore.core.dll
+D:\pro\cursoBalta\clear\jwtStore.core\obj\Debug\net7.0\jwtStore.core.pdb
+D:\pro\cursoBalta\clear\jwtStore.core\obj\Debug\net7.0\ref\jwtStore.core.dll
+D:\pro\cursoBalta\clear\jwtStore.core\obj\Debug\net7.0\jwtStore.core.csproj.AssemblyReference.cache

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nPgVpK1iwIUmT3LIkKs1BzSyu1tHRl8uPAjnNj72scM+PPz9YI6PfHubIK2+9LfNyK9/+GROUALgcQUBVCCtJg==",
+  "dgSpecHash": "PFBHU8x+rP8cP3iW0QTVjSQMkTtMDFQcmOh3e00cOZvsbk/OHWQ+Ed5ZsM/BbHcr6ZlwLRgiq/CQsGtsoaYaQA==",
   "success": true,
   "projectFilePath": "d:\\pro\\cursoBalta\\clear\\jwtStore.core\\jwtStore.core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Castro\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\Carlos Castro\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Carlos Castro\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Carlos Castro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

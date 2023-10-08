@@ -1,0 +1,17 @@
+D:\pro\cursoBalta\clear\jwtStore.Infra\bin\Debug\net7.0\jwtStore.Infra.deps.json
+D:\pro\cursoBalta\clear\jwtStore.Infra\bin\Debug\net7.0\jwtStore.Infra.runtimeconfig.json
+D:\pro\cursoBalta\clear\jwtStore.Infra\bin\Debug\net7.0\jwtStore.Infra.dll
+D:\pro\cursoBalta\clear\jwtStore.Infra\bin\Debug\net7.0\jwtStore.Infra.pdb
+D:\pro\cursoBalta\clear\jwtStore.Infra\bin\Debug\net7.0\jwtStore.core.dll
+D:\pro\cursoBalta\clear\jwtStore.Infra\bin\Debug\net7.0\jwtStore.core.pdb
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\jwtStore.Infra.csproj.AssemblyReference.cache
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\jwtStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\jwtStore.Infra.AssemblyInfoInputs.cache
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\jwtStore.Infra.AssemblyInfo.cs
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\jwtStore.Infra.csproj.CoreCompileInputs.cache
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\jwtStore.Infra.csproj.CopyComplete
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\jwtStore.Infra.dll
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\refint\jwtStore.Infra.dll
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\jwtStore.Infra.pdb
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\jwtStore.Infra.genruntimeconfig.cache
+D:\pro\cursoBalta\clear\jwtStore.Infra\obj\Debug\net7.0\ref\jwtStore.Infra.dll
